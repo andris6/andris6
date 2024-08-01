@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @ANDREW414E44524557
+- 👀 I’m interested in Python, Artificial Intelligence, Machine Learning, Data Science, Robotics, and Quantum Computing.
+- 🌱 I’m currently learning AI and ML through various courses and personal projects.
+- 💞️ I’m looking to collaborate on AI/ML projects, open-source Python libraries, innovative tech solutions, data analysis, and automation projects.
+- 📫 How to reach me andris.baki@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy solving complex puzzles, I’m a big fan of sci-fi movies, and I am learning how to solve the Rubik's Cube.
+- 💻 Experienced in using libraries such as TensorFlow.
+- 🌐 Actively contributing in the Apple MacOS Developer Beta Program.
+- 📊 Passionate about visualizing data to uncover hidden insights.
+- 🤖 Designing small-scale robotics projects in my spare time.
+- 🎓 I am still a student!
+- 🇭🇺 Nationality: Hungarian
+- ＠ My username contains the hexadecimal encoded version of my name, "Andrew".

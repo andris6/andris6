@@ -5,10 +5,14 @@
 - 📫 How to reach me andris.baki@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy solving complex puzzles, I’m a big fan of sci-fi movies, and I am learning how to solve the Rubik's Cube.
+- 🇭🇺 Nationality: Hungarian
+Additional Details:
 - 💻 Experienced in using libraries such as TensorFlow.
 - 🌐 Actively contributing in the Apple MacOS Developer Beta Program.
 - 📊 Passionate about visualizing data to uncover hidden insights.
 - 🤖 Designing small-scale robotics projects in my spare time.
-- 🎓 I am still a student!
-- 🇭🇺 Nationality: Hungarian
+- 🎓 I am still a student, and I am teaching from the best programming teacher in the world!
 - ＠ My username contains the hexadecimal encoded version of my name, "Andrew".
+- 📈 Interested in the latest advancements in Quantum Computing.
+- 📚 Avid reader of technology research papers and technical books.
+- 🌟 Enthusiastic about teaching and mentoring others in Python.

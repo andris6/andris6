@@ -6,7 +6,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy solving complex puzzles, I’m a big fan of sci-fi movies, and I am learning how to solve the Rubik's Cube.
 - 🇭🇺 Nationality: Hungarian
-Additional Details:
 - 💻 Experienced in using libraries such as TensorFlow.
 - 🌐 Actively contributing in the Apple MacOS Developer Beta Program.
 - 📊 Passionate about visualizing data to uncover hidden insights.

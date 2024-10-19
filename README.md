@@ -2,11 +2,10 @@
 - 👀 I’m interested in Python, Artificial Intelligence, Machine Learning, Data Science, Robotics, and Quantum Computing.
 - 🌱 I’m currently learning AI and ML through various courses and personal projects.
 - 💞️ I’m looking to collaborate on open-source Python libraries, innovative tech solutions, and Python applications.
-- 📫 How to reach me andris.baki@gmail.com
+- 📫 How to reach me: andris.baki@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy solving complex puzzles, I’m a big fan of sci-fi movies, and I am learning how to solve the Rubik's Cube.
 - 🇭🇺 Nationality: Hungarian
-- 🌐 Actively contributing in the Apple MacOS Developer Beta Program.
 - 📊 Passionate about visualizing data to uncover hidden insights.
 - 🎓 I am still a student, and I am teaching from the best programming teacher in the world! :-)
 - ＠ My username contains the hexadecimal encoded version of my name, "Andrew".

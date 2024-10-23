@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I enjoy solving complex puzzles, I’m a big fan of sci-fi movies, and I am learning how to solve the Rubik's Cube.
 - 🇭🇺 Nationality: Hungarian
 - 📊 Passionate about visualizing data to uncover hidden insights.
-- 🎓 I am still a student, and I am teaching from the best programming teacher in the world! :-)
+- 🎓 I am still a student, and I am learning from the best programming teacher in the world! :-)
 - ＠ My username contains the hexadecimal encoded version of my name, "Andrew".
 - 📈 Interested in the latest advancements in Quantum Computing.
 - 📚 Avid reader of technology research papers and technical books.

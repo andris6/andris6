@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ANDREW414E44524557
 - 👀 I’m interested in Python, Artificial Intelligence, Machine Learning, Data Science, Robotics, and Quantum Computing.
+- 🌐 Currently contributing in the eXpert Framework.
 - 🌱 I’m currently learning AI and ML through various courses and personal projects.
 - 💞️ I’m looking to collaborate on open-source Python libraries, innovative tech solutions, and Python applications.
 - 📫 How to reach me: andris.baki@gmail.com

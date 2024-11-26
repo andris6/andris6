@@ -3,7 +3,7 @@
 - 🧰 Favorite Tools: SageMath, Scilab, Octave, SciPy, NumPy, Pandas, Matplotlib, Atom, R, and so on...
 - 🌐 Currently contributing in the eXpert Framework, but I have lots of projects planned!
 - 🌱 I’m currently learning arithmetics through various courses and personal projects
-- 💞️ I’m looking to collaborate on open-source Python libraries, innovative tech solutions, and Python applications
+- 💞️ I’m looking to collaborate on open-source Python software, innovative tech solutions
 - 📫 How to reach me: [andris.baki@gmail.com](mailto:andris.baki@gmail.com), or Telegram me: @AndrisBaki ([t.me/AndrisBaki](t.me/AndrisBaki))
 - ⚡ Fun fact: I'm learning how to solve the Rubik's Cube, and I allways leave a blank line at the end of a script
 - ❤️ My favorite number is 6, due to that it is the smallest perfect number

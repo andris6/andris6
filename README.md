@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANDREW414E44524557, I'm 12 years old
 - 👀 I’m interested in Python, R, Math, Machine Learning, Data Science, Big Data Algorithms
-- 🧰 Favorite Tools: SageMath, Scilab, Octave, SciPy, NumPy, Pandas, Atom, R, and so on—you get the idea!
+- 🧰 Favorite Tools: SageMath, Scilab, Octave, SciPy, NumPy, Pandas, Atom, R, and so on...
 - 🌐 Currently contributing in the eXpert Framework, but I have lots of projects planned!
 - 🌱 I’m currently learning arithmetics through various courses and personal projects
 - 💞️ I’m looking to collaborate on open-source Python libraries, innovative tech solutions, and Python applications

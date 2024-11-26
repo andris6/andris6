@@ -12,4 +12,4 @@
 - 📈 Interested in the latest advancements in mathematics and computer science
 - 📚 Avid reader of technology research papers and technical books
 - 🌟 Enthusiastic about teaching and mentoring others in Python and R (in my elementary school...)
-- ℹ️ StackOverflow: https://stackoverflow.com/users/26817681/andrew, MathOverflow: https://mathoverflow.net/users/546208/andrew
+- ℹ️ StackOverflow: user:26817681, MathOverflow: user:546208, Unix & Linux: user:679986

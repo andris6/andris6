@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ANDREW414E44524557, I'm 12 years old
 - 👀 I’m interested in Python, R, Math, Machine Learning, Data Science, Big Data Algorithms
-- 🛠️ Favorite Tools: SageMath, Scilab, Octave, SciPy, NumPy, Pandas, Atom, R, and so on—you get the idea!
+- 🧰 Favorite Tools: SageMath, Scilab, Octave, SciPy, NumPy, Pandas, Atom, R, and so on—you get the idea!
 - 🌐 Currently contributing in the eXpert Framework, but I have lots of projects planned!
 - 🌱 I’m currently learning arithmetics through various courses and personal projects
 - 💞️ I’m looking to collaborate on open-source Python libraries, innovative tech solutions, and Python applications
-- 📫 How to reach me: andris.baki@gmail.com, or Telegram me: @AndrisBaki (t.me/AndrisBaki)
+- 📫 How to reach me: [andris.baki@gmail.com](mailto:andris.baki@gmail.com), or Telegram me: @AndrisBaki ([t.me/AndrisBaki](t.me/AndrisBaki))
 - ⚡ Fun fact: I enjoy solving complex puzzles, I’m a big fan of sci-fi movies, and I am learning how to solve the Rubik's Cube
 - ❤️ My favorite number is 6, due to that it is the smallest perfect number
 - 🇭🇺 Nationality: Hungarian, I live in Budapest, which is the capital of Hungary

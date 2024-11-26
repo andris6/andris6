@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on open-source Python libraries, innovative tech solutions, and Python applications
 - 📫 How to reach me: andris.baki@gmail.com, or Telegram me: @AndrisBaki (t.me/AndrisBaki)
 - ⚡ Fun fact: I enjoy solving complex puzzles, I’m a big fan of sci-fi movies, and I am learning how to solve the Rubik's Cube
+- ❤️ My favorite number is 6, due to that it is the smallest perfect number
 - 🇭🇺 Nationality: Hungarian, I live in Budapest, which is the capital of Hungary
 - 🎓 I am still a student, and I am learning from the best programming teacher in the world! :-)
 - ＠ My username contains the hexadecimal encoded version of my name, "Andrew"

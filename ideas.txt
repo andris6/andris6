@@ -1,0 +1,52 @@
+eXpert Framework
+	EncodeXpert - Text encoding/decoding
+	FileXpert - Text file encoding/decoding
+	ImageXpert - Image encoding/decoding
+	DecodeXpert - Text decoding without knowing encoding method
+	eXpert API - API for encoding/decoding
+	CalcXpert - Constant manipulation app for Texas Instruments graphing calculators
+
+Jakobson Software
+	Jakobson eMotion - AI + ML for up to 20-person emotion recognition and analysis
+	Jakobson FaceToFace - AI + ML for up to 20-person deepfake
+
+Jobs IT Solutions
+	Gauss - Math combined with Data visualization
+	Pascal - Physics simulations, Physics calculations
+	Curie - Chemistry simulations, Chemistry calculations
+	Hopper - SQL Database control system
+	Kepler - The astronomy software that everyone needs
+	Tesla - Mechanics simulations from formulas
+
+Prism Software
+	Prism Renderer - Video/3D/2D renderer
+	Prism Video Editor - Video editor
+	Prism Photo Manipulator - Photo editor
+	Prism 3Designer - 3D Simulations (for the Film Industry, Graphics, etc.)
+
+GoGame Software
+	GoGame Creator - 2D Game engine
+	GoGame Professional - 3D Game engine
+	GoGame Studio - 3D Game engine with builtin Prism 3Designer, 	Tesla, and Pascal
+
+Bell IT Solutions
+	Sherlock - Software to trace phone calls’ callers’ location
+	Watson - Software to to trace phone calls’ answerers’ location
+
+Messier Software, Limited
+	Andromeda Search Engine - The most accurate search engine
+		Andromeda Image Search - The most accurate image search engine with builtin Prism Photo Manipulator
+		Andromeda News Search - The most accurate news search
+		Andromeda Videos Search - The most accurate videos search 
+		Andromeda Products Search - The most accurate products search
+	Andromeda Account - Account for the Andromeda Engines
+	Andromeda Account Kids - Kids account for the Andromeda Search Engine (Image Search is available in safe search)
+
+ScriptedWorld
+	Logia - Dev-friendly programming language
+	LogiaUI - UI module for Logia
+	LogiaMath - Mathematics module for Logia 
+ 
+FoxDog - Font viewer
+Mandelbrot Browser - The fastest web browser on Earth
+Lemonade - AI model auto-trainer

@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [all my ideas!](https://github.com/ANDREW414E44524557/ANDREW414E44524557/blob/main/ideas.txt)
 
-- 🧰 My favorite tools: [Atom, VS Code, NumPy, SageMath, Octave, SciLab, Glue](Atom, VS Code, NumPy, SageMath, Octave, SciLab, Glue)
+- 🧰 My favorite tools: Atom, VS Code, NumPy, SageMath, Octave, SciLab, Glue
 
 - 💬 Ask me about **anything!**
 

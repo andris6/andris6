@@ -27,7 +27,7 @@ Prism Software
 GoGame Software
 	GoGame Creator - 2D Game engine
 	GoGame Professional - 3D Game engine
-	GoGame Studio - 3D Game engine with builtin Prism 3Designer, 	Tesla, and Pascal
+	GoGame Studio - 3D Game engine with builtin Prism 3Designer, Tesla, and Pascal
 
 Bell IT Solutions
 	Sherlock - Software to trace phone calls’ callers’ location
@@ -50,3 +50,4 @@ ScriptedWorld
 FoxDog - Font viewer
 Mandelbrot Browser - The fastest web browser on Earth
 Lemonade - AI model auto-trainer
+DragonSpace - Sound editor (like Pro Tools)

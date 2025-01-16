@@ -51,3 +51,5 @@ FoxDog - Font viewer
 Mandelbrot Browser - The fastest web browser on Earth
 Lemonade - AI model auto-trainer
 DragonSpace - Sound editor (like Pro Tools)
+megaviewer - Visualization software (like glueviz)
+HyperPack - HTML-native desktop app translator

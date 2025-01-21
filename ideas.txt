@@ -53,3 +53,5 @@ Lemonade - AI model auto-trainer
 DragonSpace - Sound editor (like Pro Tools)
 megaviewer - Visualization software (like glueviz)
 HyperPack - HTML-native desktop app translator
+bountyhunter - Automatically debugs any code
+haunt - Plant text into images

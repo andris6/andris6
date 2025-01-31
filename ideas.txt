@@ -47,7 +47,7 @@ ScriptedWorld
 	LogiaUI - UI module for Logia
 	LogiaMath - Mathematics module for Logia 
  
-FoxDog - Font viewer
+Snorkel - Font viewer
 Mandelbrot Browser - The fastest web browser on Earth
 Lemonade - AI model auto-trainer
 DragonSpace - Sound editor (like Pro Tools)

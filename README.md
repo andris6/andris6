@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A 12 year-old developer from Hungary</h3>
 
-- 🔭 I’m the founder of the [eXpert Framework](https://github.com/eXpert-Framework)
-
 - 🌱 I want to be a **mathematician when I grow up**
 
 - 👯 I’m looking to collaborate on **Mathematics softwares and libraries**

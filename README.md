@@ -1,19 +1,11 @@
-<h1 align="center">Hi 👋, I'm Andrew</h1>
-<h3 align="center">A 12 year-old developer from Hungary</h3>
-
-- 🌱 I want to be a **mathematician when I grow up**
+<h1 align="center">Hi 👋, I'm Andris</h1>
+<h3 align="center">A 13 year-old developer from Hungary</h3>
 
 - 👯 I’m looking to collaborate on **Mathematics softwares and libraries**
 
-- 🤝 I’m looking for help with [all my ideas!](https://github.com/ANDREW414E44524557/ANDREW414E44524557/blob/main/ideas.txt)
-
 - 🧰 My favorite tools: Atom, VS Code, NumPy, SageMath, Octave, SciLab, Glue
 
-- 💬 Ask me about **anything!**
-
 - 📫 How to reach me **andris.baki@gmail.com**
-
-- ⚡ Fun fact **I am still learning how to solve the Rubik's Cube!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

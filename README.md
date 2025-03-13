@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew</h1>
+<h1 align="center">Hi 👋, I'm Andris</h1>
 <h3 align="center">A 13-year old developer from Hungary</h3>
 
 - 📫 How to reach me **andris5040@gmail.com**

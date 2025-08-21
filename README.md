@@ -1,6 +1,6 @@
 <img width="2000" height="299" alt="Hi, I'm Andras Baki" src="https://github.com/user-attachments/assets/fee55708-1816-4ce0-aa67-a3b11a35ca16" />
 
-<h3 align="center">A 13-years-old OS engineer and Linux/BSD sysadmin from Hungary</h3>
+<h3 align="center">a 13-years-old OS engineer and Linux/BSD sysadmin from Hungary</h3>
 
 - 🔭 I’m currently working on [HeliOS](https://github.com/helios-official/helios)
 

@@ -23,3 +23,4 @@
 - 👨‍💻 I started programming when I was 4
 - ♟️ I love playing chess and solving the Rubik's Cube
 - 🎯 I want to build modular kernel components
+- 🔥 I prefer using Emacs over Vim
